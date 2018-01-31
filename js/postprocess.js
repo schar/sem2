@@ -1,10 +1,10 @@
 $(document).ready(function(){
+  $('table').addClass('f7 f6-ns w-100 mw8 center').attr('cellspacing','0').removeAttr('style');
+  $('td').removeAttr('align').addClass('pa2');
+  $('th').addClass('fw6 tl pa2').removeAttr('align');
+  $('tr').addClass('striped--near-white dim');
   $('#content a').addClass('link dim gray');
   $('colgroup').remove();
-  $('table').addClass('f7 f6-ns w-100 mw8 center').attr('cellspacing','0').removeAttr('style');
-  $('tr').addClass('striped--near-white dim');
-  $('th').addClass('fw6 tl pa2').removeAttr('align');
-  $('td').removeAttr('align').addClass('pa2');
   $('thead, tbody, table p').contents().unwrap();
   $('p').each(function() {
     var $this = $(this);
