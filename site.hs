@@ -7,6 +7,15 @@ import           Hakyll
 import           Text.Jasmine
 import           Text.Pandoc.Options
 
+-- staticWith :: Compiler (Item a) -> Pattern -> Rules ()
+-- Can't assign a type without bringing in some typeclasses
+staticWith compiler f = match f $ do
+    route   idRoute
+    compile compiler
+
+directory :: (Pattern -> Rules a) -> String -> Rules a
+directory act f = act $ fromGlob $ f ++ "/**"
+
 compressJsCompiler :: Compiler (Item String)
 compressJsCompiler = do
   let minifyJS = BS.unpack . minify . BS.pack . itemBody
@@ -36,24 +45,11 @@ postCtx = dateField "date" "%B %e, %Y" <> myDefaultContext
 
 main :: IO ()
 main = hakyll $ do
-  match "images/*" $ do
-    route   idRoute
-    compile copyFileCompiler
-
-  match "bib/*" $ compile biblioCompiler
-  match "csl/*" $ compile cslCompiler
-
-  match "css/*" $ do
-    route   idRoute
-    compile compressCssCompiler
-
-  match "js/*" $ do
-    route   idRoute
-    compile compressJsCompiler
-
-  match "files/*" $ do
-    route   idRoute
-    compile copyFileCompiler
+  directory (staticWith copyFileCompiler) "files" -- use mapM_ w/lists of dirs
+  staticWith biblioCompiler "bib/*"
+  staticWith cslCompiler "csl/*"
+  staticWith compressCssCompiler "css/*"
+  staticWith compressJsCompiler "js/*"
 
   match (fromList ["about.md", "readings.md"]) $ do
     route   $ setExtension "html"
