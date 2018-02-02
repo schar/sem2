@@ -1,3 +1,6 @@
 **/.stack-work
 **/_cache
 **/bib
+.DS_Store
+*.swp
+*.swo
