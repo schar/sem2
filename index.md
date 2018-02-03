@@ -4,8 +4,9 @@ title: Semantics II
 
 Welcome to the website for Semantics II (Spring 2018). Below is an
 up-to-date overview of our schedule, with links to notes from class where
-applicable. Copies of the readings can be found, naturally, under the
-`Readings` tab (you'll need to use the provided password to access them).
+applicable. The readings can be found, naturally, under the
+[Readings](/readings.html) tab (you'll need to use the provided password to
+access them).
 
 <div class="pa3">
 <div class="overflow-auto">
