@@ -6,4 +6,5 @@ all:
 	mv _site/ docs/;\
 
 clean:
+	stack exec site clean;\
 	rm -r docs/
