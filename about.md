@@ -38,13 +38,14 @@ Our last one or two meetings will be devoted to squib presentations.
 ### Your instructor
 
 I'm Simon. We've met. You can reach me by email at
-[simon.charlow@rutgers.edu](mailto:simon.charlow@rutgers.edu). My office is
-**18 Seminary Place, #203A**, and my office hours are:
+[simon.charlow@rutgers.edu](mailto:simon.charlow@rutgers.edu). My office is in
+the Linguistics Department, **18 Seminary Place, #203A**, and my office hours
+are:
 
-@.  Monday 11:30--12:30
+-   Mon 11:30--12:30
 
-@.  Tuesday 1:00--2:00
+-   Tue 1:00--2:00
 
-@.  Thursday 11:30--12:30
+-   Thu 11:30--12:30
 
-@.  By appointment
+-   And by appointment
