@@ -35,3 +35,16 @@ Each enrolled student will write a short squib-like term paper (10--12 pp).
 Plan to meet with me no later than the end of March to discuss possible topics.
 Our last one or two meetings will be devoted to squib presentations.
 
+### Your instructor
+
+I'm Simon. We've met. You can reach me by email at
+[simon.charlow@rutgers.edu](mailto:simon.charlow@rutgers.edu). My office is
+**18 Seminary Place, #203A**, and my office hours are:
+
+@.  Monday 11:30--12:30
+
+@.  Tuesday 1:00--2:00
+
+@.  Thursday 11:30--12:30
+
+@.  By appointment

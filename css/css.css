@@ -6,6 +6,10 @@ ul {
   list-style-type: none
 }
 
+td:nth-child(1) {
+  white-space: nowrap
+}
+
 .references div {padding-left: 22px; text-indent: -22px}
 
 @media screen and (min-width: 30em) {
