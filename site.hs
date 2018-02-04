@@ -27,7 +27,9 @@ mathBibCompiler = do
   csl <- load $ fromFilePath "csl/lsa.csl"
   bib <- load $ fromFilePath "bib/bib.bib"
   let ropt = defaultHakyllReaderOptions
-  let wopt = defaultHakyllWriterOptions {writerHTMLMathMethod = MathJax ""}
+  let wopt = defaultHakyllWriterOptions { writerHTMLMathMethod = MathJax ""
+                                        , writerHtml5 = True
+                                        }
   writePandocWith wopt <$> (getResourceBody >>= readPandocBiblio ropt csl bib)
 
 mathCtx :: Context String
