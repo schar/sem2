@@ -16,7 +16,8 @@ title: Course readings
 
 -   [Parsons (1990)](/files/readings/parsons-events-semantics-english.pdf)
 
--   [Champollion (2015)](/files/readings/champollion-interaction-compositional-event-semantics-published.pdf)
+-   Champollion [(2011)](/files/readings/champollion-quantification-negation-event-semantics-baltic.pdf),
+    [(2015)](/files/readings/champollion-interaction-compositional-event-semantics-published.pdf)
 
 -   Kratzer [(1996)](/files/readings/kratzer-severing-external-argument-from-verb.pdf),
     [(1998)](/files/readings/kratzer-more-structural-analogies-between-pronouns-tense.pdf)
