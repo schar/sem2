@@ -19,7 +19,7 @@ access them).
 | Week 3--4   | Intensionality               | - von @FintelHeim [: Ch. 1--4]      | - [here](/files/notes/01-29-18.pdf), |
 |             |                              | - von @FintelGillies:2007           | - [here](/files/notes/02-05-18.pdf)  |
 +-------------+------------------------------+-------------------------------------+--------------------------------------+
-| Week 5--6   | Events, tense & aspect       | - @Parsons:1990 [: Ch. 1--3]        | - [here](/files/notes/02-12-18.pdf)  |
+| Week 5--6   | Events, tense & aspect       | - @Parsons:1990 [: Ch. 1--3]        | - [here](/files/notes/02-12-18.pdf), |
 |             |                              | - Champollion [-@Champollion:2011], | - [here](/files/notes/02-19-18.pdf)  |
 |             |                              | [-@Champollion:2015]                |                                      |
 |             |                              | - Kratzer [-@Kratzer:1996],         |                                      |
