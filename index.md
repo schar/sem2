@@ -21,13 +21,13 @@ access them).
 +-------------+------------------------------+-------------------------------------+--------------------------------------+
 | Week 5--6   | Events, tense & aspect       | - @Parsons:1990 [: Ch. 1--3]        | - [here](/files/notes/02-12-18.pdf), |
 |             |                              | - Champollion [-@Champollion:2011], | - [here](/files/notes/02-19-18.pdf)  |
-|             |                              | [-@Champollion:2015]                |                                      |
+|             |                              | [-@Champollion:2015]                | - [here](/files/notes/02-26-18.pdf)  |
 |             |                              | - Kratzer [-@Kratzer:1996],         |                                      |
 |             |                              | [-@Kratzer:1998tense]               |                                      |
 |             |                              | - @Hacquard:2010                    |                                      |
 |             |                              | - @Szabo:2004                       |                                      |
 +-------------+------------------------------+-------------------------------------+--------------------------------------+
-| Week 7--8   | Questions & indefinites      | - @Krifka:2011, @Heim:2011:Q        |
+| Week 7--8   | Questions & indefinites      | - @Krifka:2011, @Heim:2011:Q        | - [here](/files/notes/03-01-18.pdf)  |
 |             |                              | - @GroenendijkStokhof:1989          |
 |             |                              | - @Reinhart:1997                    |
 |             |                              | - Dayal [-@Dayal:1994],             |
