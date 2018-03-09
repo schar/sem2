@@ -27,8 +27,8 @@ access them).
 |             |                              | - @Hacquard:2010                    |                                      |
 |             |                              | - @Szabo:2004                       |                                      |
 +-------------+------------------------------+-------------------------------------+--------------------------------------+
-| Week 7--8   | Questions & indefinites      | - @Krifka:2011, @Heim:2011:Q        | - [here](/files/notes/03-01-18.pdf)  |
-|             |                              | - @GroenendijkStokhof:1989          |                                      |
+| Week 7--8   | Questions & indefinites      | - @Krifka:2011, @Heim:2011:Q        | - [here](/files/notes/03-01-18.pdf), |
+|             |                              | - @GroenendijkStokhof:1989          | - [here](/files/notes/03-08-18.pdf), |
 |             |                              | - @Reinhart:1997                    |                                      |
 |             |                              | - Dayal [-@Dayal:1994],             |                                      |
 |             |                              | [-@Dayal:2002]                      |                                      |
