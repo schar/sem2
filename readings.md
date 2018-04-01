@@ -38,6 +38,16 @@ title: Course readings
 -   Dayal [(1994)](/files/readings/dayal-scope-marking-indirect-wh-dependency.pdf),
     [(2002)](/files/readings/dayal-single-pair-multiple-pair-wh-in-situ-scope.pdf)
 
+### Dynamic semantics
+
+-   [Heim (1983)](files/readings/heim-fcs-orig.pdf), [Dekker (1994)](/files/readings/dekker-predicate-logic-with-anaphora.pdf)
+
+-   [Gamut (1991: Ch. 7.4)](/files/readings/gamut-logic-language-meaning-vol-2-intensional-logic-and-logical-grammar.pdf)
+
+-   [Groenendijk & Stokhof (1991)](/files/readings/groenendijk-stokhof-dynamic-predicate-logic.pdf)
+
+-   [Szabolcsi (2003)](/files/readings/szabolcsi-binding-on-the-fly-published.pdf)
+
 ### Type-shifts, scope & binding
 
 -   [Partee (1986)](/files/readings/partee-np-interpretation-type-shifting-principles-orig.pdf)
@@ -48,16 +58,6 @@ title: Course readings
     [Charlow (2017)](http://ling.auf.net/lingbuzz/003720)
 
 -   [Barker & Shan (2008)](http://semprag.org/article/view/sp.1.1/74)
-
-### Dynamic semantics
-
--   [Gamut (1991: Ch. 7.4)](/files/readings/gamut-logic-language-meaning-vol-2-intensional-logic-and-logical-grammar.pdf)
-
--   [Groenendijk & Stokhof (1991)](/files/readings/groenendijk-stokhof-dynamic-predicate-logic.pdf)
-
--   [Dekker (1994)](/files/readings/dekker-predicate-logic-with-anaphora.pdf)
-
--   [Szabolcsi (2003)](/files/readings/szabolcsi-binding-on-the-fly-published.pdf)
 
 ### (Scalar) implicature
 
