@@ -40,7 +40,7 @@ title: Course readings
 
 ### Dynamic semantics
 
--   [Heim (1983)](files/readings/heim-fcs-orig.pdf), [Dekker (1994)](/files/readings/dekker-predicate-logic-with-anaphora.pdf)
+-   [Heim (1983)](/files/readings/heim-fcs-orig.pdf), [Dekker (1994)](/files/readings/dekker-predicate-logic-with-anaphora.pdf)
 
 -   [Gamut (1991: Ch. 7.4)](/files/readings/gamut-logic-language-meaning-vol-2-intensional-logic-and-logical-grammar.pdf)
 
