@@ -29,20 +29,20 @@ access them).
 +-------------+------------------------------+-------------------------------------+--------------------------------------+
 | Week 7--8   | Questions & indefinites      | - @Krifka:2011, @Heim:2011:Q        | - [here](/files/notes/03-01-18.pdf), |
 |             |                              | - @GroenendijkStokhof:1989          | - [here](/files/notes/03-08-18.pdf), |
-|             |                              | - @Reinhart:1997                    |                                      |
+|             |                              | - @Reinhart:1997                    | - [here](/files/notes/03-26-18.pdf)  |
 |             |                              | - Dayal [-@Dayal:1994],             |                                      |
 |             |                              | [-@Dayal:2002]                      |                                      |
 +-------------+------------------------------+-------------------------------------+--------------------------------------+
-| Week 9--10  | Type-shifts, scope & binding | - @Partee:1986                      |
+| Week 9--10  | Dynamic semantics            | - @Heim:1983:FCS, @Dekker:1994      |                                      |
+|             |                              | - @Gamut2 [: Ch. 7.4]               |                                      |
+|             |                              | - @GroenendijkStokhof:1991          |                                      |
+|             |                              | - @Szabolcsi:2003                   |                                      |
++-------------+------------------------------+-------------------------------------+--------------------------------------+
+| Week 11--12 | Type-shifts, scope & binding | - @Partee:1986                      |
 |             |                              | - @Szabolcsi:2011                   |
 |             |                              | - @Jacobson:1994,                   |
 |             |                              | @Charlow:2017:LENLS                 |
 |             |                              | - @BarkerShan:2008                  |
-+-------------+------------------------------+-------------------------------------+
-| Week 11--12 | Dynamic semantics            | - @Gamut2 [: Ch. 7.4]               |
-|             |                              | - @GroenendijkStokhof:1991          |
-|             |                              | - @Dekker:1994                      |
-|             |                              | - @Szabolcsi:2003                   |
 +-------------+------------------------------+-------------------------------------+
 | Week 13--14 | (Scalar) implicature         | - @Sauerland:impl                   |
 |             |                              | - @CFS                              |
