@@ -33,7 +33,7 @@ access them).
 |             |                              | - Dayal [-@Dayal:1994],             |                                      |
 |             |                              | [-@Dayal:2002]                      |                                      |
 +-------------+------------------------------+-------------------------------------+--------------------------------------+
-| Week 9--10  | Dynamic semantics            | - @Heim:1983:FCS, @Dekker:1994      |                                      |
+| Week 9--10  | Dynamic semantics            | - @Heim:1983:FCS, @Dekker:1994      | - [here](/files/notes/04-02-18.pdf)  |
 |             |                              | - @Gamut2 [: Ch. 7.4]               |                                      |
 |             |                              | - @GroenendijkStokhof:1991          |                                      |
 |             |                              | - @Szabolcsi:2003                   |                                      |
