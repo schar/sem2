@@ -39,8 +39,8 @@ access them).
 |             |                              | - @Szabolcsi:2003                   |                                      |
 +-------------+------------------------------+-------------------------------------+--------------------------------------+
 | Week 11--12 | Type-shifts, scope & binding | - @Partee:1986                      | - [here](/files/notes/04-19-18.pdf), |
-|             |                              | - @Szabolcsi:2011                   | - [here](/files/notes/04-23-18.pdf)  |
-|             |                              | - @Jacobson:1994,                   |
+|             |                              | - @Szabolcsi:2011                   | - [here](/files/notes/04-23-18.pdf), |
+|             |                              | - @Jacobson:1994,                   | - [here](/files/notes/04-30-18.pdf)  |
 |             |                              | @Charlow:2017:LENLS                 |
 |             |                              | - @BarkerShan:2008                  |
 +-------------+------------------------------+-------------------------------------+
